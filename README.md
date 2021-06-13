@@ -1,4 +1,4 @@
-# ansible-role-keepalived [![Build Status](https://www.travis-ci.com/izumimatsuo/ansible-role-keepalived.svg?branch=main)](https://www.travis-ci.com/izumimatsuo/ansible-role-keepalived
+# ansible-role-keepalived [![Build Status](https://www.travis-ci.com/izumimatsuo/ansible-role-keepalived.svg?branch=main)](https://www.travis-ci.com/izumimatsuo/ansible-role-keepalived)
 
 CentOS 7 に導入した haproxy や nginx 等を keepalived を適用してクラスタ化する ansible role です。
 
