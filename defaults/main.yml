@@ -1,0 +1,4 @@
+---
+# defaults file for ansible-role-keepalived
+keepalived_cluster_info: # {virtual_ipaddr: xxx, check_interface: yyy}
+keepalived_check_process: 'haproxy'
